@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\20학년 1학기\운영체제\2018920010\2018920010\bin\Debug\2018920010.exe.config
+C:\Users\user\Desktop\20학년 1학기\운영체제\2018920010\2018920010\bin\Debug\2018920010.exe
+C:\Users\user\Desktop\20학년 1학기\운영체제\2018920010\2018920010\bin\Debug\2018920010.pdb
+C:\Users\user\Desktop\20학년 1학기\운영체제\2018920010\2018920010\obj\Debug\2018920010.csprojAssemblyReference.cache
+C:\Users\user\Desktop\20학년 1학기\운영체제\2018920010\2018920010\obj\Debug\2018920010.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\20학년 1학기\운영체제\2018920010\2018920010\obj\Debug\2018920010.exe
+C:\Users\user\Desktop\20학년 1학기\운영체제\2018920010\2018920010\obj\Debug\2018920010.pdb
