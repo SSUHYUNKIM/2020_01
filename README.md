@@ -18,10 +18,8 @@
   * Lock-Free Data Structure
   * [링크](https://github.com/SSUHYUNKIM/2020_01/tree/main/Operating%20System/OS_Project_2)
 
-### 컴퓨터보안(Computer Security)(01)
+### 컴퓨터보안
 * 기말Project
   * RSA 공개키 암호방식 구현
   * [링크](https://github.com/SSUHYUNKIM/2020_01/tree/main/Computer%20Security)
-
-### 컴퓨터통신(Computer Communication)(01)
 
